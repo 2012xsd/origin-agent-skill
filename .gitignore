@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+*.opju
+*.png
+*.pdf
+*.tif
+.DS_Store
